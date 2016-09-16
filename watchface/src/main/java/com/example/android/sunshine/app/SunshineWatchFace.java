@@ -38,7 +38,6 @@ import android.support.v4.content.ContextCompat;
 import android.support.wearable.watchface.CanvasWatchFaceService;
 import android.support.wearable.watchface.WatchFaceStyle;
 import android.text.format.DateFormat;
-import android.util.Log;
 import android.view.SurfaceHolder;
 import android.view.WindowInsets;
 
@@ -57,6 +56,7 @@ import com.google.android.gms.wearable.Wearable;
 
 import java.lang.ref.WeakReference;
 import java.util.Calendar;
+import java.util.Locale;
 import java.util.TimeZone;
 import java.util.UUID;
 import java.util.concurrent.TimeUnit;
@@ -145,6 +145,7 @@ public class SunshineWatchFace extends CanvasWatchFaceService {
                 mCalendar.setTimeInMillis(now);
             }
         };
+
         GoogleApiClient mGoogleApiClient = new GoogleApiClient.Builder(SunshineWatchFace.this)
                 .addConnectionCallbacks(this)
                 .addOnConnectionFailedListener(this)
@@ -220,7 +221,6 @@ public class SunshineWatchFace extends CanvasWatchFaceService {
 
             if (visible) {
                 mGoogleApiClient.connect();
-
                 registerReceiver();
 
                 mCalendar.setTimeZone(TimeZone.getDefault());
@@ -320,30 +320,6 @@ public class SunshineWatchFace extends CanvasWatchFaceService {
             updateTimer();
         }
 
-        /**
-         * Captures tap event (and tap type) and toggles the background color if the user finishes
-         * a tap.
-         */
-        @Override
-        public void onTapCommand(int tapType, int x, int y, long eventTime) {
-            Resources resources = SunshineWatchFace.this.getResources();
-            switch (tapType) {
-                case TAP_TYPE_TOUCH:
-                    // The user has started touching the screen.
-                    break;
-                case TAP_TYPE_TOUCH_CANCEL:
-                    // The user has started a different gesture or otherwise cancelled the tap.
-                    break;
-//                case TAP_TYPE_TAP:
-//                    // The user has completed the tap gesture.
-//                    mTapCount++;
-//                    mBackgroundPaint.setColor(resources.getColor(mTapCount % 2 == 0 ?
-//                            R.color.background : R.color.background2));
-//                    break;
-            }
-            invalidate();
-        }
-
         @Override
         public void onDraw(Canvas canvas, Rect bounds) {
             // Draw the background.
@@ -363,16 +339,16 @@ public class SunshineWatchFace extends CanvasWatchFaceService {
             String timeText;
             if (is24Hour) {
                 int hour = mCalendar.get(Calendar.HOUR_OF_DAY);
-                timeText = String.format("%02d:%02d", hour, minute);
+                timeText = String.format(Locale.US, "%02d:%02d", hour, minute);
             } else {
                 int hour = mCalendar.get(Calendar.HOUR);
                 if (hour == 0) {
                     hour = 12;
                 }
-                timeText = String.format("%d:%02d", hour, minute);
+                timeText = String.format(Locale.US, "%d:%02d", hour, minute);
             }
 
-            String secondsText = String.format("%02d", second);
+            String secondsText = String.format(Locale.US, "%02d", second);
             String amPmText = Utility.getAmPmString(getResources(), am_pm);
             float timeTextLen = mTextTimePaint.measureText(timeText);
             float xOffsetTime = timeTextLen / 2;
@@ -405,7 +381,7 @@ public class SunshineWatchFace extends CanvasWatchFaceService {
             int dayOfMonth = mCalendar.get(Calendar.DAY_OF_MONTH);
             int year = mCalendar.get(Calendar.YEAR);
 
-            String dateText = String.format("%s, %s %d %d", dayOfWeekString, monthOfYearString, dayOfMonth, year);
+            String dateText = String.format(Locale.US, "%s, %s %d %d", dayOfWeekString, monthOfYearString, dayOfMonth, year);
             float xOffsetDate = datePaint.measureText(dateText) / 2;
             canvas.drawText(dateText, bounds.centerX() - xOffsetDate, mDateYOffset, datePaint);
 
@@ -490,12 +466,10 @@ public class SunshineWatchFace extends CanvasWatchFaceService {
                     if (path.equals(WEATHER_INFO_PATH)) {
                         if (dataMap.containsKey(KEY_HIGH)) {
                             mWeatherHigh = dataMap.getString(KEY_HIGH);
-                        } else {
                         }
 
                         if (dataMap.containsKey(KEY_LOW)) {
                             mWeatherLow = dataMap.getString(KEY_LOW);
-                        } else {
                         }
 
                         if (dataMap.containsKey(KEY_WEATHER_ID)) {
@@ -505,7 +479,6 @@ public class SunshineWatchFace extends CanvasWatchFaceService {
                             float scaledWidth = (mTextTempHighPaint.getTextSize() / icon.getHeight()) * icon.getWidth();
                             mWeatherIcon = Bitmap.createScaledBitmap(icon, (int) scaledWidth, (int) mTextTempHighPaint.getTextSize(), true);
 
-                        } else {
                         }
 
                         invalidate();
@@ -527,11 +500,8 @@ public class SunshineWatchFace extends CanvasWatchFaceService {
             Wearable.DataApi.putDataItem(mGoogleApiClient, request)
                     .setResultCallback(new ResultCallback<DataApi.DataItemResult>() {
                         @Override
-                        public void onResult(DataApi.DataItemResult dataItemResult) {
+                        public void onResult(@NonNull DataApi.DataItemResult dataItemResult) {
                             if (!dataItemResult.getStatus().isSuccess()) {
-//                                Log.d(TAG, "Failed asking phone for weather data");
-                            } else {
-//                                Log.d(TAG, "Successfully asked for weather data");
                             }
                         }
                     });
