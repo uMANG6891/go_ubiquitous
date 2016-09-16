@@ -4,7 +4,7 @@ I made this project while my Nanodegree program with Udacity.
 
 ## Features of Go Ubiquitous - Sunshine
 
-- Android watch face fro Square and Round watches.
+- Android watch face for Square and Round watches.
 
 ## Screenshots
 
