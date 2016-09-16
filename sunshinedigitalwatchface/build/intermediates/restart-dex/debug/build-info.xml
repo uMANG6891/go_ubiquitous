@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<instant-run
+    abi="x86"
+    api-level="23"
+    density="360dpi"
+    format="7"
+    timestamp="9011731692902"
+    token="-1099520340403768730" >
+
+    <task
+        name="javac"
+        duration="584" />
+    <task
+        name="instant-run-dex"
+        duration="0" />
+    <task
+        name="instant-run-transform"
+        duration="56" />
+    <task
+        name="verifier"
+        duration="12" />
+
+    <artifact
+        location="/Users/umang/AndroidStudioProjects/Udacity/Advanced_Android_Development-7.05_Pretty_Wallpaper_Time/sunshinedigitalwatchface/build/outputs/apk/sunshinedigitalwatchface-debug.apk"
+        type="MAIN" />
+
+    <build timestamp="9011731692902" >
+        <artifact
+            location="/Users/umang/AndroidStudioProjects/Udacity/Advanced_Android_Development-7.05_Pretty_Wallpaper_Time/sunshinedigitalwatchface/build/outputs/apk/sunshinedigitalwatchface-debug.apk"
+            type="MAIN" />
+    </build>
+
+</instant-run>

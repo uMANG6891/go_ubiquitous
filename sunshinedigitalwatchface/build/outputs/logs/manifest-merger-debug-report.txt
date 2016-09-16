@@ -1,0 +1,121 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/umang/AndroidStudioProjects/Udacity/Advanced_Android_Development-7.05_Pretty_Wallpaper_Time/sunshinedigitalwatchface/src/main/AndroidManifest.xml:2:1-42:12
+	package
+		ADDED from /Users/umang/AndroidStudioProjects/Udacity/Advanced_Android_Development-7.05_Pretty_Wallpaper_Time/sunshinedigitalwatchface/src/main/AndroidManifest.xml:3:11-61
+		INJECTED from /Users/umang/AndroidStudioProjects/Udacity/Advanced_Android_Development-7.05_Pretty_Wallpaper_Time/sunshinedigitalwatchface/src/main/AndroidManifest.xml
+		INJECTED from /Users/umang/AndroidStudioProjects/Udacity/Advanced_Android_Development-7.05_Pretty_Wallpaper_Time/sunshinedigitalwatchface/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/umang/AndroidStudioProjects/Udacity/Advanced_Android_Development-7.05_Pretty_Wallpaper_Time/sunshinedigitalwatchface/src/main/AndroidManifest.xml
+		INJECTED from /Users/umang/AndroidStudioProjects/Udacity/Advanced_Android_Development-7.05_Pretty_Wallpaper_Time/sunshinedigitalwatchface/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/umang/AndroidStudioProjects/Udacity/Advanced_Android_Development-7.05_Pretty_Wallpaper_Time/sunshinedigitalwatchface/src/main/AndroidManifest.xml:2:11-69
+	android:versionCode
+		INJECTED from /Users/umang/AndroidStudioProjects/Udacity/Advanced_Android_Development-7.05_Pretty_Wallpaper_Time/sunshinedigitalwatchface/src/main/AndroidManifest.xml
+		INJECTED from /Users/umang/AndroidStudioProjects/Udacity/Advanced_Android_Development-7.05_Pretty_Wallpaper_Time/sunshinedigitalwatchface/src/main/AndroidManifest.xml
+uses-feature#android.hardware.type.watch
+ADDED from /Users/umang/AndroidStudioProjects/Udacity/Advanced_Android_Development-7.05_Pretty_Wallpaper_Time/sunshinedigitalwatchface/src/main/AndroidManifest.xml:5:5-63
+	android:name
+		ADDED from /Users/umang/AndroidStudioProjects/Udacity/Advanced_Android_Development-7.05_Pretty_Wallpaper_Time/sunshinedigitalwatchface/src/main/AndroidManifest.xml:5:19-61
+uses-permission#android.permission.WAKE_LOCK
+ADDED from /Users/umang/AndroidStudioProjects/Udacity/Advanced_Android_Development-7.05_Pretty_Wallpaper_Time/sunshinedigitalwatchface/src/main/AndroidManifest.xml:8:5-67
+	android:name
+		ADDED from /Users/umang/AndroidStudioProjects/Udacity/Advanced_Android_Development-7.05_Pretty_Wallpaper_Time/sunshinedigitalwatchface/src/main/AndroidManifest.xml:8:22-65
+application
+ADDED from /Users/umang/AndroidStudioProjects/Udacity/Advanced_Android_Development-7.05_Pretty_Wallpaper_Time/sunshinedigitalwatchface/src/main/AndroidManifest.xml:10:5-40:19
+MERGED from [com.google.android.support:wearable:2.0.0-alpha2] /Users/umang/AndroidStudioProjects/Udacity/Advanced_Android_Development-7.05_Pretty_Wallpaper_Time/sunshinedigitalwatchface/build/intermediates/exploded-aar/com.google.android.support/wearable/2.0.0-alpha2/AndroidManifest.xml:6:5-19
+MERGED from [com.android.support:support-v4:23.0.1] /Users/umang/AndroidStudioProjects/Udacity/Advanced_Android_Development-7.05_Pretty_Wallpaper_Time/sunshinedigitalwatchface/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:23.0.1] /Users/umang/AndroidStudioProjects/Udacity/Advanced_Android_Development-7.05_Pretty_Wallpaper_Time/sunshinedigitalwatchface/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-wearable:9.4.0] /Users/umang/AndroidStudioProjects/Udacity/Advanced_Android_Development-7.05_Pretty_Wallpaper_Time/sunshinedigitalwatchface/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/9.4.0/AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-base:9.4.0] /Users/umang/AndroidStudioProjects/Udacity/Advanced_Android_Development-7.05_Pretty_Wallpaper_Time/sunshinedigitalwatchface/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.4.0/AndroidManifest.xml:19:5-23:19
+MERGED from [com.google.android.gms:play-services-basement:9.4.0] /Users/umang/AndroidStudioProjects/Udacity/Advanced_Android_Development-7.05_Pretty_Wallpaper_Time/sunshinedigitalwatchface/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/9.4.0/AndroidManifest.xml:20:5-24:19
+MERGED from [com.android.support:support-v4:23.0.1] /Users/umang/AndroidStudioProjects/Udacity/Advanced_Android_Development-7.05_Pretty_Wallpaper_Time/sunshinedigitalwatchface/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-tasks:9.4.0] /Users/umang/AndroidStudioProjects/Udacity/Advanced_Android_Development-7.05_Pretty_Wallpaper_Time/sunshinedigitalwatchface/build/intermediates/exploded-aar/com.google.android.gms/play-services-tasks/9.4.0/AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-basement:9.4.0] /Users/umang/AndroidStudioProjects/Udacity/Advanced_Android_Development-7.05_Pretty_Wallpaper_Time/sunshinedigitalwatchface/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/9.4.0/AndroidManifest.xml:20:5-24:19
+MERGED from [com.android.support:support-v4:23.0.1] /Users/umang/AndroidStudioProjects/Udacity/Advanced_Android_Development-7.05_Pretty_Wallpaper_Time/sunshinedigitalwatchface/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-basement:9.4.0] /Users/umang/AndroidStudioProjects/Udacity/Advanced_Android_Development-7.05_Pretty_Wallpaper_Time/sunshinedigitalwatchface/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/9.4.0/AndroidManifest.xml:20:5-24:19
+MERGED from [com.android.support:support-v4:23.0.1] /Users/umang/AndroidStudioProjects/Udacity/Advanced_Android_Development-7.05_Pretty_Wallpaper_Time/sunshinedigitalwatchface/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/AndroidManifest.xml:22:5-20
+	android:label
+		ADDED from /Users/umang/AndroidStudioProjects/Udacity/Advanced_Android_Development-7.05_Pretty_Wallpaper_Time/sunshinedigitalwatchface/src/main/AndroidManifest.xml:13:9-41
+	android:supportsRtl
+		ADDED from /Users/umang/AndroidStudioProjects/Udacity/Advanced_Android_Development-7.05_Pretty_Wallpaper_Time/sunshinedigitalwatchface/src/main/AndroidManifest.xml:14:9-35
+	android:allowBackup
+		ADDED from /Users/umang/AndroidStudioProjects/Udacity/Advanced_Android_Development-7.05_Pretty_Wallpaper_Time/sunshinedigitalwatchface/src/main/AndroidManifest.xml:11:9-35
+	android:icon
+		ADDED from /Users/umang/AndroidStudioProjects/Udacity/Advanced_Android_Development-7.05_Pretty_Wallpaper_Time/sunshinedigitalwatchface/src/main/AndroidManifest.xml:12:9-43
+	android:theme
+		ADDED from /Users/umang/AndroidStudioProjects/Udacity/Advanced_Android_Development-7.05_Pretty_Wallpaper_Time/sunshinedigitalwatchface/src/main/AndroidManifest.xml:15:9-59
+service#com.umangpandya.sunshinedigitalwatchface.SunshineWatchFace
+ADDED from /Users/umang/AndroidStudioProjects/Udacity/Advanced_Android_Development-7.05_Pretty_Wallpaper_Time/sunshinedigitalwatchface/src/main/AndroidManifest.xml:16:9-35:19
+	android:label
+		ADDED from /Users/umang/AndroidStudioProjects/Udacity/Advanced_Android_Development-7.05_Pretty_Wallpaper_Time/sunshinedigitalwatchface/src/main/AndroidManifest.xml:18:13-52
+	android:permission
+		ADDED from /Users/umang/AndroidStudioProjects/Udacity/Advanced_Android_Development-7.05_Pretty_Wallpaper_Time/sunshinedigitalwatchface/src/main/AndroidManifest.xml:19:13-67
+	android:name
+		ADDED from /Users/umang/AndroidStudioProjects/Udacity/Advanced_Android_Development-7.05_Pretty_Wallpaper_Time/sunshinedigitalwatchface/src/main/AndroidManifest.xml:17:13-46
+meta-data#android.service.wallpaper
+ADDED from /Users/umang/AndroidStudioProjects/Udacity/Advanced_Android_Development-7.05_Pretty_Wallpaper_Time/sunshinedigitalwatchface/src/main/AndroidManifest.xml:20:13-22:53
+	android:resource
+		ADDED from /Users/umang/AndroidStudioProjects/Udacity/Advanced_Android_Development-7.05_Pretty_Wallpaper_Time/sunshinedigitalwatchface/src/main/AndroidManifest.xml:22:17-51
+	android:name
+		ADDED from /Users/umang/AndroidStudioProjects/Udacity/Advanced_Android_Development-7.05_Pretty_Wallpaper_Time/sunshinedigitalwatchface/src/main/AndroidManifest.xml:21:17-57
+meta-data#com.google.android.wearable.watchface.preview
+ADDED from /Users/umang/AndroidStudioProjects/Udacity/Advanced_Android_Development-7.05_Pretty_Wallpaper_Time/sunshinedigitalwatchface/src/main/AndroidManifest.xml:23:13-25:63
+	android:resource
+		ADDED from /Users/umang/AndroidStudioProjects/Udacity/Advanced_Android_Development-7.05_Pretty_Wallpaper_Time/sunshinedigitalwatchface/src/main/AndroidManifest.xml:25:17-61
+	android:name
+		ADDED from /Users/umang/AndroidStudioProjects/Udacity/Advanced_Android_Development-7.05_Pretty_Wallpaper_Time/sunshinedigitalwatchface/src/main/AndroidManifest.xml:24:17-77
+meta-data#com.google.android.wearable.watchface.preview_circular
+ADDED from /Users/umang/AndroidStudioProjects/Udacity/Advanced_Android_Development-7.05_Pretty_Wallpaper_Time/sunshinedigitalwatchface/src/main/AndroidManifest.xml:26:13-28:72
+	android:resource
+		ADDED from /Users/umang/AndroidStudioProjects/Udacity/Advanced_Android_Development-7.05_Pretty_Wallpaper_Time/sunshinedigitalwatchface/src/main/AndroidManifest.xml:28:17-70
+	android:name
+		ADDED from /Users/umang/AndroidStudioProjects/Udacity/Advanced_Android_Development-7.05_Pretty_Wallpaper_Time/sunshinedigitalwatchface/src/main/AndroidManifest.xml:27:17-86
+intent-filter#android.service.wallpaper.WallpaperService+com.google.android.wearable.watchface.category.WATCH_FACE
+ADDED from /Users/umang/AndroidStudioProjects/Udacity/Advanced_Android_Development-7.05_Pretty_Wallpaper_Time/sunshinedigitalwatchface/src/main/AndroidManifest.xml:30:13-34:29
+action#android.service.wallpaper.WallpaperService
+ADDED from /Users/umang/AndroidStudioProjects/Udacity/Advanced_Android_Development-7.05_Pretty_Wallpaper_Time/sunshinedigitalwatchface/src/main/AndroidManifest.xml:31:17-84
+	android:name
+		ADDED from /Users/umang/AndroidStudioProjects/Udacity/Advanced_Android_Development-7.05_Pretty_Wallpaper_Time/sunshinedigitalwatchface/src/main/AndroidManifest.xml:31:25-82
+category#com.google.android.wearable.watchface.category.WATCH_FACE
+ADDED from /Users/umang/AndroidStudioProjects/Udacity/Advanced_Android_Development-7.05_Pretty_Wallpaper_Time/sunshinedigitalwatchface/src/main/AndroidManifest.xml:33:17-101
+	android:name
+		ADDED from /Users/umang/AndroidStudioProjects/Udacity/Advanced_Android_Development-7.05_Pretty_Wallpaper_Time/sunshinedigitalwatchface/src/main/AndroidManifest.xml:33:27-99
+meta-data#com.google.android.gms.version
+ADDED from /Users/umang/AndroidStudioProjects/Udacity/Advanced_Android_Development-7.05_Pretty_Wallpaper_Time/sunshinedigitalwatchface/src/main/AndroidManifest.xml:37:9-39:68
+MERGED from [com.google.android.gms:play-services-basement:9.4.0] /Users/umang/AndroidStudioProjects/Udacity/Advanced_Android_Development-7.05_Pretty_Wallpaper_Time/sunshinedigitalwatchface/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/9.4.0/AndroidManifest.xml:21:9-23:69
+MERGED from [com.google.android.gms:play-services-basement:9.4.0] /Users/umang/AndroidStudioProjects/Udacity/Advanced_Android_Development-7.05_Pretty_Wallpaper_Time/sunshinedigitalwatchface/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/9.4.0/AndroidManifest.xml:21:9-23:69
+MERGED from [com.google.android.gms:play-services-basement:9.4.0] /Users/umang/AndroidStudioProjects/Udacity/Advanced_Android_Development-7.05_Pretty_Wallpaper_Time/sunshinedigitalwatchface/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/9.4.0/AndroidManifest.xml:21:9-23:69
+	android:value
+		ADDED from /Users/umang/AndroidStudioProjects/Udacity/Advanced_Android_Development-7.05_Pretty_Wallpaper_Time/sunshinedigitalwatchface/src/main/AndroidManifest.xml:39:13-66
+	android:name
+		ADDED from /Users/umang/AndroidStudioProjects/Udacity/Advanced_Android_Development-7.05_Pretty_Wallpaper_Time/sunshinedigitalwatchface/src/main/AndroidManifest.xml:38:13-58
+uses-sdk
+INJECTED from /Users/umang/AndroidStudioProjects/Udacity/Advanced_Android_Development-7.05_Pretty_Wallpaper_Time/sunshinedigitalwatchface/src/main/AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.google.android.support:wearable:2.0.0-alpha2] /Users/umang/AndroidStudioProjects/Udacity/Advanced_Android_Development-7.05_Pretty_Wallpaper_Time/sunshinedigitalwatchface/build/intermediates/exploded-aar/com.google.android.support/wearable/2.0.0-alpha2/AndroidManifest.xml:4:5-72
+MERGED from [com.android.support:support-v4:23.0.1] /Users/umang/AndroidStudioProjects/Udacity/Advanced_Android_Development-7.05_Pretty_Wallpaper_Time/sunshinedigitalwatchface/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:recyclerview-v7:23.0.1] /Users/umang/AndroidStudioProjects/Udacity/Advanced_Android_Development-7.05_Pretty_Wallpaper_Time/sunshinedigitalwatchface/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/23.0.1/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:23.0.1] /Users/umang/AndroidStudioProjects/Udacity/Advanced_Android_Development-7.05_Pretty_Wallpaper_Time/sunshinedigitalwatchface/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/AndroidManifest.xml:20:5-43
+MERGED from [com.google.android.gms:play-services-wearable:9.4.0] /Users/umang/AndroidStudioProjects/Udacity/Advanced_Android_Development-7.05_Pretty_Wallpaper_Time/sunshinedigitalwatchface/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/9.4.0/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-base:9.4.0] /Users/umang/AndroidStudioProjects/Udacity/Advanced_Android_Development-7.05_Pretty_Wallpaper_Time/sunshinedigitalwatchface/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.4.0/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-basement:9.4.0] /Users/umang/AndroidStudioProjects/Udacity/Advanced_Android_Development-7.05_Pretty_Wallpaper_Time/sunshinedigitalwatchface/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/9.4.0/AndroidManifest.xml:18:5-42
+MERGED from [com.android.support:support-v4:23.0.1] /Users/umang/AndroidStudioProjects/Udacity/Advanced_Android_Development-7.05_Pretty_Wallpaper_Time/sunshinedigitalwatchface/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/AndroidManifest.xml:20:5-43
+MERGED from [com.google.android.gms:play-services-tasks:9.4.0] /Users/umang/AndroidStudioProjects/Udacity/Advanced_Android_Development-7.05_Pretty_Wallpaper_Time/sunshinedigitalwatchface/build/intermediates/exploded-aar/com.google.android.gms/play-services-tasks/9.4.0/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-basement:9.4.0] /Users/umang/AndroidStudioProjects/Udacity/Advanced_Android_Development-7.05_Pretty_Wallpaper_Time/sunshinedigitalwatchface/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/9.4.0/AndroidManifest.xml:18:5-42
+MERGED from [com.android.support:support-v4:23.0.1] /Users/umang/AndroidStudioProjects/Udacity/Advanced_Android_Development-7.05_Pretty_Wallpaper_Time/sunshinedigitalwatchface/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/AndroidManifest.xml:20:5-43
+MERGED from [com.google.android.gms:play-services-basement:9.4.0] /Users/umang/AndroidStudioProjects/Udacity/Advanced_Android_Development-7.05_Pretty_Wallpaper_Time/sunshinedigitalwatchface/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/9.4.0/AndroidManifest.xml:18:5-42
+MERGED from [com.android.support:support-v4:23.0.1] /Users/umang/AndroidStudioProjects/Udacity/Advanced_Android_Development-7.05_Pretty_Wallpaper_Time/sunshinedigitalwatchface/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/AndroidManifest.xml:20:5-43
+	android:targetSdkVersion
+		INJECTED from /Users/umang/AndroidStudioProjects/Udacity/Advanced_Android_Development-7.05_Pretty_Wallpaper_Time/sunshinedigitalwatchface/src/main/AndroidManifest.xml
+		INJECTED from /Users/umang/AndroidStudioProjects/Udacity/Advanced_Android_Development-7.05_Pretty_Wallpaper_Time/sunshinedigitalwatchface/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/umang/AndroidStudioProjects/Udacity/Advanced_Android_Development-7.05_Pretty_Wallpaper_Time/sunshinedigitalwatchface/src/main/AndroidManifest.xml
+		INJECTED from /Users/umang/AndroidStudioProjects/Udacity/Advanced_Android_Development-7.05_Pretty_Wallpaper_Time/sunshinedigitalwatchface/src/main/AndroidManifest.xml
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:9.4.0] /Users/umang/AndroidStudioProjects/Udacity/Advanced_Android_Development-7.05_Pretty_Wallpaper_Time/sunshinedigitalwatchface/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.4.0/AndroidManifest.xml:20:9-22:45
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:9.4.0] /Users/umang/AndroidStudioProjects/Udacity/Advanced_Android_Development-7.05_Pretty_Wallpaper_Time/sunshinedigitalwatchface/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.4.0/AndroidManifest.xml:22:19-43
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:9.4.0] /Users/umang/AndroidStudioProjects/Udacity/Advanced_Android_Development-7.05_Pretty_Wallpaper_Time/sunshinedigitalwatchface/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.4.0/AndroidManifest.xml:21:19-78
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:9.4.0] /Users/umang/AndroidStudioProjects/Udacity/Advanced_Android_Development-7.05_Pretty_Wallpaper_Time/sunshinedigitalwatchface/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.4.0/AndroidManifest.xml:20:19-85

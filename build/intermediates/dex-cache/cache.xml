@@ -1,0 +1,208 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/umang/AndroidStudioProjects/Udacity/Advanced_Android_Development-7.05_Pretty_Wallpaper_Time/app/build/intermediates/exploded-aar/com.android.support/cardview-v7/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="c5e6490573cd2cc8018417f60ddd251138b6ed61">
+        <dex dex="/Users/umang/AndroidStudioProjects/Udacity/Advanced_Android_Development-7.05_Pretty_Wallpaper_Time/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-cardview-v7-24.2.1_6dde83610c434901c6019d46a1a3d91bbadbe878/classes.dex" />
+    </item>
+    <item
+        jar="/Users/umang/AndroidStudioProjects/Udacity/Advanced_Android_Development-7.05_Pretty_Wallpaper_Time/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="/Users/umang/AndroidStudioProjects/Udacity/Advanced_Android_Development-7.05_Pretty_Wallpaper_Time/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-utils-24.2.1_379375a140412ee576ca520548d2fc2c0dc3837f/classes.dex" />
+    </item>
+    <item
+        jar="/Users/umang/AndroidStudioProjects/Udacity/Advanced_Android_Development-7.05_Pretty_Wallpaper_Time/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="b1acf13f1b7d8232af78a30833f9a966d1394c84">
+        <dex dex="/Users/umang/AndroidStudioProjects/Udacity/Advanced_Android_Development-7.05_Pretty_Wallpaper_Time/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-wearable-9.4.0_86e15c5f81987ee94e1493c0a6874733bf8bcc4e/classes.dex" />
+    </item>
+    <item
+        jar="/Users/umang/AndroidStudioProjects/Udacity/Advanced_Android_Development-7.05_Pretty_Wallpaper_Time/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="/Users/umang/AndroidStudioProjects/Udacity/Advanced_Android_Development-7.05_Pretty_Wallpaper_Time/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-fragment-24.2.1_878e077e074f3ce16bbb5a5b62cf70e0236b3f98/classes.dex" />
+    </item>
+    <item
+        jar="/Users/umang/AndroidStudioProjects/Udacity/Advanced_Android_Development-7.05_Pretty_Wallpaper_Time/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="/Users/umang/AndroidStudioProjects/Udacity/Advanced_Android_Development-7.05_Pretty_Wallpaper_Time/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_a90a5a13fdc5cad0f96e510d8c23617b321a5d8d/classes.dex" />
+    </item>
+    <item
+        jar="/Users/umang/AndroidStudioProjects/Udacity/Advanced_Android_Development-7.05_Pretty_Wallpaper_Time/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-gcm/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="ece40b09e9d4d488bc270cf6af5a9af73bc1cfa3">
+        <dex dex="/Users/umang/AndroidStudioProjects/Udacity/Advanced_Android_Development-7.05_Pretty_Wallpaper_Time/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-gcm-9.4.0_95f7826d70bd45e4366b2e812344a6dd34b92b49/classes.dex" />
+    </item>
+    <item
+        jar="/Users/umang/AndroidStudioProjects/Udacity/Advanced_Android_Development-7.05_Pretty_Wallpaper_Time/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="/Users/umang/AndroidStudioProjects/Udacity/Advanced_Android_Development-7.05_Pretty_Wallpaper_Time/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-24.2.1_afd5ba3ccb56f907c402be17b5d2a366299b01b3/classes.dex" />
+    </item>
+    <item
+        jar="/Users/umang/AndroidStudioProjects/Udacity/Advanced_Android_Development-7.05_Pretty_Wallpaper_Time/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-iid/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="59a16a4a42d25b2c243dd1e8aea87d06895b4a06">
+        <dex dex="/Users/umang/AndroidStudioProjects/Udacity/Advanced_Android_Development-7.05_Pretty_Wallpaper_Time/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-iid-9.4.0_923048daf82c3500df2e467eff686aeeba4c65c2/classes.dex" />
+    </item>
+    <item
+        jar="/Users/umang/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/24.2.1/support-annotations-24.2.1.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
+        <dex dex="/Users/umang/AndroidStudioProjects/Udacity/Advanced_Android_Development-7.05_Pretty_Wallpaper_Time/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-24.2.1_a7ed0b73053780af9010f1481b45624a72ade965/classes.dex" />
+    </item>
+    <item
+        jar="/Users/umang/.gradle/caches/modules-2/files-2.1/com.google.android.apps.muzei/muzei-api/2.0/ea86be2a201e6ad86dacffe774dbc6d89fcb0c92/muzei-api-2.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="ea86be2a201e6ad86dacffe774dbc6d89fcb0c92">
+        <dex dex="/Users/umang/AndroidStudioProjects/Udacity/Advanced_Android_Development-7.05_Pretty_Wallpaper_Time/app/build/intermediates/transforms/dex/debug/folders/1000/10/muzei-api-2.0_5a4930570b63381911f2d3c885db938cff599169/classes.dex" />
+    </item>
+    <item
+        jar="/Users/umang/AndroidStudioProjects/Udacity/Advanced_Android_Development-7.05_Pretty_Wallpaper_Time/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="/Users/umang/AndroidStudioProjects/Udacity/Advanced_Android_Development-7.05_Pretty_Wallpaper_Time/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_cbc08dccd3b3e46c131a7d77acd66f8eb75f9ed9/classes.dex" />
+    </item>
+    <item
+        jar="/Users/umang/AndroidStudioProjects/Udacity/Advanced_Android_Development-7.05_Pretty_Wallpaper_Time/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/umang/AndroidStudioProjects/Udacity/Advanced_Android_Development-7.05_Pretty_Wallpaper_Time/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-24.2.1_333007f799253299393859d626cdd92d8aaf8dbb/classes.dex" />
+    </item>
+    <item
+        jar="/Users/umang/AndroidStudioProjects/Udacity/Advanced_Android_Development-7.05_Pretty_Wallpaper_Time/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="/Users/umang/AndroidStudioProjects/Udacity/Advanced_Android_Development-7.05_Pretty_Wallpaper_Time/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_5ab4e3bdb721906817eff0e2765523722b0c4409/classes.dex" />
+    </item>
+    <item
+        jar="/Users/umang/AndroidStudioProjects/Udacity/Advanced_Android_Development-7.05_Pretty_Wallpaper_Time/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="/Users/umang/AndroidStudioProjects/Udacity/Advanced_Android_Development-7.05_Pretty_Wallpaper_Time/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_518431da21c740969ae6abceb9d4eef86d2bce77/classes.dex" />
+    </item>
+    <item
+        jar="/Users/umang/.gradle/caches/modules-2/files-2.1/com.github.bumptech.glide/glide/3.5.2/ecf534dba3a8446ce84cbb797d314763be212a68/glide-3.5.2.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="ecf534dba3a8446ce84cbb797d314763be212a68">
+        <dex dex="/Users/umang/AndroidStudioProjects/Udacity/Advanced_Android_Development-7.05_Pretty_Wallpaper_Time/app/build/intermediates/transforms/dex/debug/folders/1000/10/glide-3.5.2_ccb6579f4a28badb153b6c7c2bd60e0836d239aa/classes.dex" />
+    </item>
+    <item
+        jar="/Users/umang/AndroidStudioProjects/Udacity/Advanced_Android_Development-7.05_Pretty_Wallpaper_Time/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tasks/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="8a36d229011e75f0caef408e1adf0d3fd4d94e02">
+        <dex dex="/Users/umang/AndroidStudioProjects/Udacity/Advanced_Android_Development-7.05_Pretty_Wallpaper_Time/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-tasks-9.4.0_b930bf0cd7fe539f95d1cc1b15bcaa4679e02216/classes.dex" />
+    </item>
+    <item
+        jar="/Users/umang/AndroidStudioProjects/Udacity/Advanced_Android_Development-7.05_Pretty_Wallpaper_Time/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="/Users/umang/AndroidStudioProjects/Udacity/Advanced_Android_Development-7.05_Pretty_Wallpaper_Time/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-24.2.1_bbc69897a916c9c4cc8cadc0fcee817cc08a418d/classes.dex" />
+    </item>
+    <item
+        jar="/Users/umang/AndroidStudioProjects/Udacity/Advanced_Android_Development-7.05_Pretty_Wallpaper_Time/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="d5d2e0208b874bf0296d14ff8296acde5faf2447">
+        <dex dex="/Users/umang/AndroidStudioProjects/Udacity/Advanced_Android_Development-7.05_Pretty_Wallpaper_Time/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_dcf45c6986ddfa27271d372400172207e0c7471a/classes.dex" />
+    </item>
+    <item
+        jar="/Users/umang/AndroidStudioProjects/Udacity/Advanced_Android_Development-7.05_Pretty_Wallpaper_Time/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="/Users/umang/AndroidStudioProjects/Udacity/Advanced_Android_Development-7.05_Pretty_Wallpaper_Time/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-24.2.1_3cabb46b3296e736408f4512f752f64ced803c73/classes.dex" />
+    </item>
+    <item
+        jar="/Users/umang/AndroidStudioProjects/Udacity/Advanced_Android_Development-7.05_Pretty_Wallpaper_Time/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="/Users/umang/AndroidStudioProjects/Udacity/Advanced_Android_Development-7.05_Pretty_Wallpaper_Time/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-media-compat-24.2.1_61497f1f75ba1571185751c325b7d656c50fc7d7/classes.dex" />
+    </item>
+    <item
+        jar="/Users/umang/AndroidStudioProjects/Udacity/Advanced_Android_Development-7.05_Pretty_Wallpaper_Time/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="618485fef3ebe12127f7622abbc9b5b39057b5c2">
+        <dex dex="/Users/umang/AndroidStudioProjects/Udacity/Advanced_Android_Development-7.05_Pretty_Wallpaper_Time/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-basement-9.4.0_c486097deb1f7fcf0909dd9a7d78445a54fc0596/classes.dex" />
+    </item>
+    <item
+        jar="/Users/umang/AndroidStudioProjects/Udacity/Advanced_Android_Development-7.05_Pretty_Wallpaper_Time/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="c2980723c2578e8f565fb883e27e80e3ad9b9102">
+        <dex dex="/Users/umang/AndroidStudioProjects/Udacity/Advanced_Android_Development-7.05_Pretty_Wallpaper_Time/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_1e29610309ec374a7aea7f14c64024a56ff9a021/classes.dex" />
+    </item>
+    <item
+        jar="/Users/umang/AndroidStudioProjects/Udacity/Advanced_Android_Development-7.05_Pretty_Wallpaper_Time/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="/Users/umang/AndroidStudioProjects/Udacity/Advanced_Android_Development-7.05_Pretty_Wallpaper_Time/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_fb956a5c772d132664fdba062866b2d1ac2fa782/classes.dex" />
+    </item>
+    <item
+        jar="/Users/umang/AndroidStudioProjects/Udacity/Advanced_Android_Development-7.05_Pretty_Wallpaper_Time/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="/Users/umang/AndroidStudioProjects/Udacity/Advanced_Android_Development-7.05_Pretty_Wallpaper_Time/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-ui-24.2.1_b89f353f1925fcd67e5313fd37d4d630af3c4d88/classes.dex" />
+    </item>
+    <item
+        jar="/Users/umang/AndroidStudioProjects/Udacity/Advanced_Android_Development-7.05_Pretty_Wallpaper_Time/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="3dee4ce5844d39d843d503fb8fe04e51e5bfffac">
+        <dex dex="/Users/umang/AndroidStudioProjects/Udacity/Advanced_Android_Development-7.05_Pretty_Wallpaper_Time/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-base-9.4.0_8b6b346b7335a76be3c41363916d883aabea10cb/classes.dex" />
+    </item>
+    <item
+        jar="/Users/umang/AndroidStudioProjects/Udacity/Advanced_Android_Development-7.05_Pretty_Wallpaper_Time/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="7521486d9bfd2cd9e756e0cf75ed7d97f2ce2d3b">
+        <dex dex="/Users/umang/AndroidStudioProjects/Udacity/Advanced_Android_Development-7.05_Pretty_Wallpaper_Time/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-recyclerview-v7-24.2.1_3e05902e57eb0834cdf7fedbb998e07195faf854/classes.dex" />
+    </item>
+    <item
+        jar="/Users/umang/AndroidStudioProjects/Udacity/Advanced_Android_Development-7.05_Pretty_Wallpaper_Time/app/build/intermediates/exploded-aar/com.android.support/gridlayout-v7/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="4e6470fe5081bd76bb727ea9d0d9de373ac5940b">
+        <dex dex="/Users/umang/AndroidStudioProjects/Udacity/Advanced_Android_Development-7.05_Pretty_Wallpaper_Time/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-gridlayout-v7-24.2.1_9489b588fa44287ec5527ab70087a7f95233f90b/classes.dex" />
+    </item>
+    <item
+        jar="/Users/umang/AndroidStudioProjects/Udacity/Advanced_Android_Development-7.05_Pretty_Wallpaper_Time/app/build/intermediates/exploded-aar/com.android.support/design/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="e03f47f3d1017a093bb3239d4ec47c3447f40744">
+        <dex dex="/Users/umang/AndroidStudioProjects/Udacity/Advanced_Android_Development-7.05_Pretty_Wallpaper_Time/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-design-24.2.1_b3d6c165c7d957ae1067fbae8f82bee992d10c37/classes.dex" />
+    </item>
+    <item
+        jar="/Users/umang/AndroidStudioProjects/Udacity/Advanced_Android_Development-7.05_Pretty_Wallpaper_Time/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="/Users/umang/AndroidStudioProjects/Udacity/Advanced_Android_Development-7.05_Pretty_Wallpaper_Time/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-compat-24.2.1_021aa789c294db42f3909d3f9e0c1fe23547290b/classes.dex" />
+    </item>
+
+</items>
